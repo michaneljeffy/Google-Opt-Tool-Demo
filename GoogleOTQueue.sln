@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleOTQueue", "GoogleOTQueue\GoogleOTQueue.csproj", "{6E4687AD-43BE-4FE4-A20F-DC15298F2D25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NettyServer", "NettyServer\NettyServer.csproj", "{D6CBBD82-1CFF-4BC0-8F83-F6DFD0AA976C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NettyClient", "NettyClient\NettyClient.csproj", "{B5B77227-4D2A-44A1-BBC8-050ACA76C0D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E4687AD-43BE-4FE4-A20F-DC15298F2D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4687AD-43BE-4FE4-A20F-DC15298F2D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4687AD-43BE-4FE4-A20F-DC15298F2D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4687AD-43BE-4FE4-A20F-DC15298F2D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CBBD82-1CFF-4BC0-8F83-F6DFD0AA976C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CBBD82-1CFF-4BC0-8F83-F6DFD0AA976C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CBBD82-1CFF-4BC0-8F83-F6DFD0AA976C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CBBD82-1CFF-4BC0-8F83-F6DFD0AA976C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B77227-4D2A-44A1-BBC8-050ACA76C0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B77227-4D2A-44A1-BBC8-050ACA76C0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B77227-4D2A-44A1-BBC8-050ACA76C0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B77227-4D2A-44A1-BBC8-050ACA76C0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F04D570-4949-4F55-9ED2-58E3C2D05CAB}
+	EndGlobalSection
+EndGlobal

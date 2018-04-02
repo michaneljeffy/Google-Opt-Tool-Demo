@@ -1,0 +1,11 @@
+.vs/
+
+packages/
+
+
+GoogleOTQueue/bin/
+GoogleOTQueue/obj/
+NettyClient/obj/
+NettyClient/bin/
+NettyServer/bin/
+NettyServer/obj/
